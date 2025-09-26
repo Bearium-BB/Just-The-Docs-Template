@@ -7,8 +7,6 @@ TO DO:
 · The Git Life Cycle. - Claudia 10/2
 
 
-
-
 · Undoing in Git with: - Eli 10/1
 
 o Checkout
@@ -51,7 +49,11 @@ o Forking Workflow
 DOING:
 
 
-· Git Fundamentals.  - Eli 9/30
+
+DONE:
+
+
+· Git Fundamentals.  - Eli Started 9/26 Finished 9/26 Due 9/30
 
 o Configuring Git
 
@@ -62,7 +64,3 @@ o Staging and Commit Files
 o Status, Log, and Diff
 
 o Using a Git Ignore File
-
-
-DONE:
-
