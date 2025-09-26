@@ -32,13 +32,9 @@ o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli 10/2
 
-· Resolving Merge Conflict - Jangho 9/30
-
 · Stashing - Jangho 10/1
 
 · Tags - Jangho 10/2
-
-
 
 · Remote Repositories  Brett - 9/30
 
@@ -60,8 +56,9 @@ o Forking Workflow
 
 DOING:
 
-· The role of version control in software development.  - Claudia 9/30
 
+· The role of version control in software development.  - Claudia 9/30
+· Resolving Merge Conflict - Jangho 9/30
 
 
 
