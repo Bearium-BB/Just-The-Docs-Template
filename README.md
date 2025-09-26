@@ -1,10 +1,9 @@
 TO DO:
 
-· The role of version control in software development.  - Claudia 9/30
-
 · What is Git (including pros and cons). - Claudia 10/1
 
 · The Git Life Cycle. - Claudia 10/2
+
 
 
 · Git Fundamentals.  - Eli 9/30
@@ -40,6 +39,7 @@ o When to use the different strategies.
 · Tags - Jangho 10/2
 
 
+
 · Remote Repositories  Brett - 9/30
 
 o Adding / Configuring a GitHub Remote
@@ -59,6 +59,10 @@ o Forking Workflow
 
 
 DOING:
+
+· The role of version control in software development.  - Claudia 9/30
+
+
 
 
 
