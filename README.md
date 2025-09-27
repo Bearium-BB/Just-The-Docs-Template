@@ -57,11 +57,12 @@ o Forking Workflow
 DOING:
 
 
-· The role of version control in software development.  - Claudia 9/30
-· Resolving Merge Conflict - Jangho 9/30
 
+· The role of version control in software development.  - Claudia 9/30
 
 
 
 DONE:
+
+· Resolving Merge Conflict - Jangho 9/30
 
