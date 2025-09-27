@@ -32,13 +32,9 @@ o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli 10/2
 
-· Resolving Merge Conflict - Jangho 9/30
-
 · Stashing - Jangho 10/1
 
 · Tags - Jangho 10/2
-
-
 
 · Remote Repositories  Brett - 9/30
 
@@ -60,7 +56,7 @@ o Forking Workflow
 
 DOING:
 
-
+· Resolving Merge Conflict - Jangho 9/30
 
 
 
