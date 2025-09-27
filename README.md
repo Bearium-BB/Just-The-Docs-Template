@@ -60,11 +60,11 @@ o Forking Workflow
 
 DOING:
 
-· The role of version control in software development.  - Claudia 9/30
+
 
 
 
 
 
 DONE:
-
+· The role of version control in software development.  - Claudia, Started 9/26 Finished 9/26 Due 9/30
