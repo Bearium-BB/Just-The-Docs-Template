@@ -30,7 +30,6 @@ A repository (or repo) is the collection of files and directories that you are m
 
 The Git life cycle consists of three main stages: the Working Directory, the Staging Area, and the Git Commit.
 1. Working Directory: This is the current state of your project's files on your computer.
-
 2. Staging Files: Before you can save changes (commit), you must first add the new or modified files to a staging area. This lets you select which changes you want to include in the next commit.
     - To stage a specific file: git add readme.md
     - To stage all new or modified files in the current directory: git add .
@@ -80,4 +79,5 @@ Further Resources
 - [Pro Git Book] (https://git-scm.com/book/en/v2)
 - [Useful .gitignore templates for common languages and technologies] (https://github.com/github/gitignore)
 - [GitHub Education Student Benefits] (https://github.com/education)
+- 
 <!-- prettier-ignore-end -->
