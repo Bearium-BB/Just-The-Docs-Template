@@ -42,12 +42,16 @@ o Forking Workflow
 
 DOING:
 
-· Resolving Merge Conflict - Jangho 9/30
 
+
+· The role of version control in software development.  - Claudia 9/30
 
 
 
 DONE:
+
+
+· Resolving Merge Conflict - Jangho 9/30
 
 GitFundimentals
 - Git Fundamentals. Eli Started 9/26 Finished 9/26 Due 9/30
@@ -63,4 +67,5 @@ GitFundimentals
 - Using a Git Ignore File
 
 · The role of version control in software development.  - Claudia, Started 9/26 Finished 9/26 Due 9/30
+
 
