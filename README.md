@@ -50,17 +50,17 @@ DOING:
 DONE:
 
 GitFundimentals
-· Git Fundamentals.  - Eli Started 9/26 Finished 9/26 Due 9/30
+- Git Fundamentals. Eli Started 9/26 Finished 9/26 Due 9/30
 
-o Configuring Git
+- Configuring Git
 
-o Initializing a Repo
+- Initializing a Repo
 
-o Staging and Commit Files
+- Staging and Commit Files
 
-o Status, Log, and Diff
+- Status, Log, and Diff
 
-o Using a Git Ignore File
+- Using a Git Ignore File
 
 · The role of version control in software development.  - Claudia, Started 9/26 Finished 9/26 Due 9/30
 
