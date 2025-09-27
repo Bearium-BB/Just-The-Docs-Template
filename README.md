@@ -4,20 +4,6 @@ TO DO:
 
 · The Git Life Cycle. - Claudia 10/2
 
-
-
-· Git Fundamentals.  - Eli 9/30
-
-o Configuring Git
-
-o Initializing a Repo
-
-o Staging and Commit Files
-
-o Status, Log, and Diff
-
-o Using a Git Ignore File
-
 · Undoing in Git with: - Eli 10/1
 
 o Checkout
@@ -56,12 +42,21 @@ o Forking Workflow
 
 DOING:
 
-
 · The role of version control in software development.  - Claudia 9/30
 · Resolving Merge Conflict - Jangho 9/30
 
 
 
-
 DONE:
+GitFundimentals
+· Git Fundamentals.  - Eli 9/30
 
+o Configuring Git
+
+o Initializing a Repo
+
+o Staging and Commit Files
+
+o Status, Log, and Diff
+
+o Using a Git Ignore File
