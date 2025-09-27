@@ -35,4 +35,7 @@ Learn what Git is and the pros and cons of using it.
 
 ## Want to know more?
 
-
+- [A Short History of Git](https://git-scm.com/book/ms/v2/Getting-Started-A-Short-History-of-Git). - Official git history.
+- [Git Guide](https://github.com/git-guides). - Official git Learning Guides from the folks at GitHub.
+- [Git CheetSheet](https://training.github.com/downloads/github-git-cheat-sheet/). - The most popular git commands in one page.
+- [Pro Git Book](https://git-scm.com/book/en/v2). - Free ebook provides a deep dive into everything git.
