@@ -79,5 +79,6 @@ Further Resources
 - [Pro Git Book] (https://git-scm.com/book/en/v2)
 - [Useful .gitignore templates for common languages and technologies] (https://github.com/github/gitignore)
 - [GitHub Education Student Benefits] (https://github.com/education)
-- 
+
+
 <!-- prettier-ignore-end -->
