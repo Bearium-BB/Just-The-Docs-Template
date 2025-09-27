@@ -1,13 +1,8 @@
 TO DO:
 
-· The role of version control in software development.  - Claudia 9/30
-
 · What is Git (including pros and cons). - Claudia 10/1
 
 · The Git Life Cycle. - Claudia 10/2
-
-
-
 
 · Undoing in Git with: - Eli 10/1
 
@@ -23,12 +18,9 @@ o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli 10/2
 
-· Resolving Merge Conflict - Jangho 9/30
-
 · Stashing - Jangho 10/1
 
 · Tags - Jangho 10/2
-
 
 · Remote Repositories  Brett - 9/30
 
@@ -50,7 +42,13 @@ o Forking Workflow
 
 DOING:
 
+· The role of version control in software development.  - Claudia 9/30
+· Resolving Merge Conflict - Jangho 9/30
 
+
+
+DONE:
+GitFundimentals
 · Git Fundamentals.  - Eli 9/30
 
 o Configuring Git
@@ -62,7 +60,3 @@ o Staging and Commit Files
 o Status, Log, and Diff
 
 o Using a Git Ignore File
-
-
-DONE:
-
