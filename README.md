@@ -1,6 +1,6 @@
 TO DO:
 
-· What is Git (including pros and cons). - Claudia 10/1
+
 
 · The Git Life Cycle. - Claudia 10/2
 
@@ -44,7 +44,7 @@ DOING:
 
 
 
-· The role of version control in software development.  - Claudia 9/30
+· What is Git (including pros and cons). - Claudia, Started 9/27 Due 10/1
 
 
 
