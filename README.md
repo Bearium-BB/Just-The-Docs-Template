@@ -18,8 +18,6 @@ o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli 10/2
 
-· Stashing - Jangho 10/1
-
 · Tags - Jangho 10/2
 
 · Remote Repositories  Brett - 9/30
@@ -44,30 +42,26 @@ DOING:
 
 
 
-
+· Stashing - Jangho Started 9/27 Due 10/1
 
 
 
 DONE:
 
 
-· Resolving Merge Conflict - Jangho 9/30
+
+· Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
 
 GitFundimentals
-- Git Fundamentals. Eli Started 9/26 Finished 9/26 Due 9/30
 
-- Configuring Git
-
-- Initializing a Repo
-
-- Staging and Commit Files
-
-- Status, Log, and Diff
-
-- Using a Git Ignore File
+* Git Fundamentals. Eli Started 9/26 Finished 9/26 Due 9/30
+* Configuring Git
+* Initializing a Repo
+* Staging and Commit Files
+* Status, Log, and Diff
+* Using a Git Ignore File
 
 · The role of version control in software development.  - Claudia, Started 9/26 Finished 9/26 Due 9/30
 
 · What is Git (including pros and cons). - Claudia, Started 9/27 Finished 9/27 Due 10/1
-
 
