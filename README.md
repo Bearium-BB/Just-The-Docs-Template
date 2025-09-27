@@ -42,8 +42,8 @@ o Forking Workflow
 
 DOING:
 
-· The role of version control in software development.  - Claudia 9/30
 · Resolving Merge Conflict - Jangho 9/30
+
 
 
 
@@ -60,3 +60,6 @@ o Staging and Commit Files
 o Status, Log, and Diff
 
 o Using a Git Ignore File
+
+· The role of version control in software development.  - Claudia, Started 9/26 Finished 9/26 Due 9/30
+
