@@ -48,8 +48,9 @@ DOING:
 
 
 DONE:
+
 GitFundimentals
-· Git Fundamentals.  - Eli 9/30
+· Git Fundamentals.  - Eli Started 9/26 Finished 9/26 Due 9/30
 
 o Configuring Git
 
