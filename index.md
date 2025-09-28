@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->
-# Version Control
+# **Version Control**
 {: .no_toc }
 
 Learn what version control is, why it is important in software development, the different types that exist, and why you should add it to your proyects.
@@ -33,7 +33,7 @@ Version control allows for more than just undoing things:
 
 ## Evolution of Version Control
 
-#### A Diary Analogy:
+**A Diary Analogy**:
 
 - **Local Version Control:** Storing your diary under your pillow.
 - **Centralized Version Control:** Storing a copy of your diary in a safety deposit box.
@@ -42,15 +42,15 @@ Version control allows for more than just undoing things:
 ## Why Should I Care About Version Control?
 - Solo or team, version control is your secret weapon for efficient and stress-free software development.
 
-#### **It's your development safety net!**
+**It's your development safety net!**
 
 ## Different Version Control Systems
 
-### Distributed VCS:
+**Distributed VCS**
 - Git - Free. Popular outside of game dev, especially for open source project.
 - Plastic SCM / Unity Version Control - Paid. Now owned by Unity.
 
-### Centralized VCS:
+**Centralized VCS**
 - Perforce Helix Core - Paid. Industry standard for large game dev shops.
 - Subversion - Free. Classic choice for smaller / indie shops.
 
