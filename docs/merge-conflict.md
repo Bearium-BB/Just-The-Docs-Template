@@ -1,3 +1,8 @@
+---
+layout: default
+title: Merge Conflict
+nav_order: 6
+---
 # Merge Conflicts
 {:.no_toc}
 
@@ -5,7 +10,12 @@ Merge conflicts occur when Git can't automatically merge two branches.
 
 When a merge conflict happens, Git will alert you in the terminal and mark the areas of conflict in the file.
 
----
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Git's Markup of Conflicted Files
 
@@ -23,7 +33,6 @@ This is the content from the branch being merged.
 >>>>>>> feature-branch
 ```
 
----
 
 ## Resolving Merge Conflicts
 
@@ -38,3 +47,8 @@ To resolve a merge conflict:
    ```
    git commit
    ```
+
+## References
+
+- [Git Documentation: Git-Basic Merge Conflicts](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- [Git merge conflicts - Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)  
