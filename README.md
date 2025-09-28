@@ -42,7 +42,7 @@ DOING:
 
 
 
-· The Git Life Cycle. - Claudia, Started 9/28 Due 10/2
+
 
 · Remote Repositories  Brett - 9/30
 
@@ -69,6 +69,7 @@ GitFundimentals
 
 · What is Git (including pros and cons). - Claudia, Started 9/27 Finished 9/27 Due 10/1
 
+· The Git Life Cycle. - Claudia, Started 9/28 Finished 9/28 Due 10/2
 
 · Remote Repositories  Brett - Finished 9/27 Due 9/30 
 
