@@ -42,13 +42,13 @@ DOING:
 
 
 
-· Stashing - Jangho Started 9/27 Due 10/1
+
 
 
 
 DONE:
 
-
+· Stashing - Jangho Started 9/27 Finished 9/27 Due 10/1
 
 · Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
 
