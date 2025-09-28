@@ -44,7 +44,11 @@ DOING:
 
 · Stashing - Jangho Started 9/27 Due 10/1
 
+· Remote Repositories  Brett - 9/30
 
+* Adding / Configuring a GitHub Remote
+
+* Pushing and Pulling
 
 DONE:
 
