@@ -2,7 +2,7 @@ TO DO:
 
 
 
-· The Git Life Cycle. - Claudia 10/2
+
 
 · Undoing in Git with: - Eli 10/1
 
@@ -42,7 +42,7 @@ DOING:
 
 
 
-
+· The Git Life Cycle. - Claudia, Started 9/28 Due 10/2
 
 · Remote Repositories  Brett - 9/30
 
