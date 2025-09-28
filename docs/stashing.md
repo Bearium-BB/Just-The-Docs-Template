@@ -1,7 +1,7 @@
 # Stashing
 {:.no_toc}
 
-Git stash allows you to temporarily put aside changes that you don¡¯t want to commit yet.  
+Git stash allows you to temporarily put aside changes that you don't want to commit yet.  
 Think of it like a **magic toy box**: you can quickly clean your room (stash your changes), and later bring everything back to how it was.
 
 ## Table of Contents
@@ -13,7 +13,7 @@ Think of it like a **magic toy box**: you can quickly clean your room (stash you
 ## When to Stash?
 
 You may want to use `git stash` when:
-- You want to switch branches, but you¡¯re in the middle of something and don¡¯t want to commit yet.  
+- You want to switch branches, but you're in the middle of something and don't want to commit yet.  
 - You need to pull changes, but you have uncommitted work.  
 
 
@@ -25,7 +25,7 @@ git stash
 
 This command stashes your changes, leaving you with a clean working directory.  
 
-**Remember:** It¡¯s only temporary storage. Don¡¯t forget about your stashed changes!
+**Remember:** It's only temporary storage. Don't forget about your stashed changes!
 
 
 ## The Stash Stack
