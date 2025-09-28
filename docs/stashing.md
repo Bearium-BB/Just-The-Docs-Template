@@ -1,10 +1,5 @@
----
-layout: default
-title: Stashing
-nav_order: 7
----
 # Stashing
-{: .no_toc}
+{:.no_toc}
 
 Git stash allows you to temporarily put aside changes that you don¡¯t want to commit yet.  
 Think of it like a **magic toy box**: you can quickly clean your room (stash your changes), and later bring everything back to how it was.
