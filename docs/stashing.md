@@ -1,8 +1,3 @@
----
-layout: default
-title: Stashing
-nav_order: 7
----
 # Stashing
 {:.no_toc}
 
