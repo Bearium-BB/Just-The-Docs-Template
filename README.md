@@ -28,8 +28,6 @@ DOING:
 
 
 
-· Tags - Jangho 10/2
-
 
 
 · Remote Repositories  Brett - 9/30
@@ -37,11 +35,17 @@ DOING:
 * Adding / Configuring a GitHub Remote
 * Pushing and Pulling
 
+
+
 DONE:
+
+
+
+· Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
 
 · Stashing - Jangho Started 9/27 Finished 9/27 Due 10/1
 
-· Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
+· Tags - Jangho Started 9/28 Finished 9/28 Due 10/2
 
 GitFundimentals
 
