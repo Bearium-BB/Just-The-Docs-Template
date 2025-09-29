@@ -1,12 +1,10 @@
 TO DO:
 
-· What is Git (including pros and cons). - Claudia 10/1
 
-· The Git Life Cycle. - Claudia 10/2
+
+
 
 · Creating, Using, and Merging Branches - Eli 10/2
-
-· Stashing - Jangho 10/1
 
 · Tags - Jangho 10/2
 
@@ -30,26 +28,42 @@ o Forking Workflow
 
 DOING:
 
-· The role of version control in software development.  - Claudia 9/30
-· Resolving Merge Conflict - Jangho 9/30
 
 
+
+
+· Remote Repositories  Brett - 9/30
+
+* Adding / Configuring a GitHub Remote
+
+* Pushing and Pulling
 
 DONE:
+
+· Stashing - Jangho Started 9/27 Finished 9/27 Due 10/1
+
+· Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
+
 GitFundimentals
-· Git Fundamentals.  - Eli 9/30
 
-o Configuring Git
+* Git Fundamentals. Eli Started 9/26 Finished 9/26 Due 9/30
+* Configuring Git
+* Initializing a Repo
+* Staging and Commit Files
+* Status, Log, and Diff
+* Using a Git Ignore File
 
-o Initializing a Repo
+· The role of version control in software development.  - Claudia, Started 9/26 Finished 9/26 Due 9/30
 
-o Staging and Commit Files
+· What is Git (including pros and cons). - Claudia, Started 9/27 Finished 9/27 Due 10/1
 
-o Status, Log, and Diff
+· The Git Life Cycle. - Claudia, Started 9/28 Finished 9/28 Due 10/2
 
-o Using a Git Ignore File
+· Remote Repositories  Brett - Finished 9/27 Due 9/30 
 
+* Adding / Configuring a GitHub Remote
 
+* Pushing and Pulling
 
 · Undoing in Git with: - Eli Started 09/28, Finished 09/28, Due10/01
 
@@ -62,6 +76,5 @@ o Revert
 o Clean
 
 o When to use the different strategies.
-
 
 
