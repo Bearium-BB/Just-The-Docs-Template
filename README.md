@@ -4,18 +4,6 @@ TO DO:
 
 · The Git Life Cycle. - Claudia 10/2
 
-· Undoing in Git with: - Eli 10/1
-
-o Checkout
-
-o Reset
-
-o Revert
-
-o Clean
-
-o When to use the different strategies.
-
 · Creating, Using, and Merging Branches - Eli 10/2
 
 · Stashing - Jangho 10/1
@@ -60,3 +48,20 @@ o Staging and Commit Files
 o Status, Log, and Diff
 
 o Using a Git Ignore File
+
+
+
+· Undoing in Git with: - Eli Started 09/28, Finished 09/28, Due10/01
+
+o Checkout
+
+o Reset
+
+o Revert
+
+o Clean
+
+o When to use the different strategies.
+
+
+
