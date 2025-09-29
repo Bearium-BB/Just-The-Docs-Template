@@ -35,8 +35,6 @@ DOING:
 
 DONE:
 
-
-
 · Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
 
 · Stashing - Jangho Started 9/27 Finished 9/27 Due 10/1
@@ -84,5 +82,13 @@ o Centralized Workflow
 o Feature Branch Workflow
 
 o Forking Workflow
+
+
+· Remote Repositories - Brett  Finished 9/27 Due 9/30
+
+* Adding / Configuring a GitHub Remote
+
+* Pushing and Pulling
+
 
 
