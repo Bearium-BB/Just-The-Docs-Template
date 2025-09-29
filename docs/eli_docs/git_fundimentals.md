@@ -27,11 +27,17 @@ To start tracking a project with Git, you must first initialize a repository wit
 4. By default, Git names the primary branch "master," but the new industry standard is "main". You can rename it with the following command:
 
 
+=======
+A repository (or repo) is the collection of files and directories that you are monitoring for changes with a version control tool. To start tracking a new project with Git, you must first initialize a repository from within the project's root folder.
+- To initialize a new Git repo, use the command: `git init .`
+- Git's default main branch is often named "master," but you can rename it to "main" using: `git branch -m main`
+>>>>>>> Stashed changes
 
 
 
 ## Staging and Committing Files
 
+<<<<<<< Updated upstream
 Saving changes in Git is a two-step process that moves your work from the working directory to the staging area, and finally commits it permanently to the repository.
 
 1. Stage Your Changes: First, you must add any new or changed files to the staging area. This tells Git which specific changes you want to include in your next save point.
