@@ -28,16 +28,6 @@ o Forking Workflow
 
 DOING:
 
-
-· The How and Why of Team Git Workflow  - Brett 10/1
-
-o Centralized Workflow
-
-o Feature Branch Workflow
-
-o Forking Workflow
-
-
 · Remote Repositories  Brett - 9/30
 
 * Adding / Configuring a GitHub Remote
@@ -82,5 +72,14 @@ o Revert
 o Clean
 
 o When to use the different strategies.
+
+
+· The How and Why of Team Git Workflow  - Brett Finished 9/28 Due 10/1
+
+o Centralized Workflow
+
+o Feature Branch Workflow
+
+o Forking Workflow
 
 
