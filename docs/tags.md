@@ -47,7 +47,7 @@ git tag -a <tag-name> -m "your message here"
 - **List tags**  
 You can list all the tags in the repository using `git tag` or `git tag -l`. To
 narrow the list based on a search pattern, you can use `git tag -l "<search-
-pattern>"`
+-pattern>"`
   
 - **Show tag information**  
 If you have annotated tags, you can view the associated
