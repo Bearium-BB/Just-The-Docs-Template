@@ -30,7 +30,6 @@ A repository (or repo) is the collection of files and directories that you are m
 
 
 
-
 ## Staging and Committing Files
 
 The Git life cycle consists of three main stages: the Working Directory, the Staging Area, and the Git Commit.
@@ -87,3 +86,4 @@ Further Resources
 
 
 <!-- prettier-ignore-end -->
+
