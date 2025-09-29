@@ -45,17 +45,13 @@ git tag -a <tag-name> -m "your message here"
   You can treat the tag like a branch/commit, and checkout to the tag's point in history. For instance, `git checkout <tag-name>`
 
 - **List tags**  
-You can list all the tags in the repository using `git tag` or `git tag -l`. To
-narrow the list based on a search pattern, you can use `git tag -l "<search-
--pattern>"`
+You can list all the tags in the repository using `git tag` or `git tag -l`. To narrow the list based on a search pattern, you can use `git tag -l "<search-pattern>"`
   
 - **Show tag information**  
-If you have annotated tags, you can view the associated
-information with `git show <tag-name>`.
+If you have annotated tags, you can view the associated information with `git show <tag-name>`.
 
 - **Compare differences**  
-You can compare the differences between the tagged state of
-the code and the current HEAD using `git diff <tag-name>`.
+You can compare the differences between the tagged state of the code and the current HEAD using `git diff <tag-name>`.
 
 
 ## References
