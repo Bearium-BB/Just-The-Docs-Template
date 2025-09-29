@@ -31,13 +31,6 @@ DOING:
 
 
 
-
-· Remote Repositories  Brett - 9/30
-
-* Adding / Configuring a GitHub Remote
-
-* Pushing and Pulling
-
 DONE:
 
 · Stashing - Jangho Started 9/27 Finished 9/27 Due 10/1
@@ -76,5 +69,13 @@ o Revert
 o Clean
 
 o When to use the different strategies.
+
+
+· Remote Repositories - Brett  Finished 9/27 Due 9/30
+
+* Adding / Configuring a GitHub Remote
+
+* Pushing and Pulling
+
 
 
