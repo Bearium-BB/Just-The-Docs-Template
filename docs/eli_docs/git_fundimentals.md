@@ -1,5 +1,6 @@
 ## Configuring Git
 
+<<<<<<< Updated upstream
 Before you begin working on a project, you need to complete a one-time setup to let Git know who you are. This information will be attached to every commit you make. You can also turn on colorization to make the command line output easier to read.
 
 Run the following commands in your terminal, replacing the placeholder text with your own information:
@@ -11,9 +12,16 @@ Run the following commands in your terminal, replacing the placeholder text with
 - Enable helpful colorization for UI output:
 
 These global settings only need to be configured once on your computer.
+=======
+Before you begin using Git, you need to configure it with your name and email address. This information is included in the commits you create. You only need to do this configuration once.
+- Set your name: `git config --global user.name "Your Name"`
+- Set your email: `git config --global user.email "your.email@example.com"`
+- Enable helpful colorization: `git config --global color.ui auto`
+>>>>>>> Stashed changes
 
 
 
+<<<<<<< Updated upstream
 
 
 ## Initializing a Repository
@@ -71,6 +79,27 @@ Writing high-quality commit messages is crucial. They contribute to:
 Bad Message Examples: "fixing stuff", "Final version.", "asdf" Good Message Example: "Prevent null reference crashes by adding pointer checks in the teleport code."
 
 
+=======
+The Git life cycle consists of three main stages: the Working Directory, the Staging Area, and the Git Commit.
+1. Working Directory: This is the current state of your project's files on your computer.
+2. Staging Files: Before you can save changes (commit), you must first add the new or modified files to a staging area. This lets you select which changes you want to include in the next commit.
+    - To stage a specific file: git add readme.md
+    - To stage all new or modified files in the current directory: `git add .`
+    - You can also use wildcards: `git add docs/textfiles/*.txt`
+
+3. Committing Files: A commit is a snapshot of your entire repository compressed into a unique identifier called a SHA hash. You commit your staged changes with a descriptive message.
+    - To commit with a short message: git commit -m "Your explanation of the changes goes here."
+    - For more complex changes, you can add a title and a longer description: `git commit -m "Title" -m "Long description goes here .........."`
+Writing good commit messages is crucial as they provide traceability, aid collaboration, and serve as documentation for your project's history. For example, a good message is "Enhance user experience by validating signup form fields," while a bad one is simply "fixing stuff".
+
+
+## Status, Log, and Diff
+
+Git provides several commands to view the state of your repository and its history.
+- `git status`: Use this command to check the status of your repo for any changes or additions.
+- `git log`: This command allows you to review all the commits made in the repository's history. Each log entry displays the commit hash (a unique 40-character SHA1 ID), the author, the date, and the commit message.
+- `git diff`: This command is used to see the differences between the current files in your working directory and the last commit. You can also use it to compare specific files (git diff secret_plans.txt) or entire folders (git diff ./textfiles/plans).
+>>>>>>> Stashed changes
 
 
 
