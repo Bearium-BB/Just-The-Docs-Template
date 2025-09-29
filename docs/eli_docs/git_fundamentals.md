@@ -40,7 +40,7 @@ The Git life cycle consists of three main stages: the Working Directory, the Sta
     - You can also use wildcards: `git add docs/textfiles/*.txt`
 
 3. Committing Files: A commit is a snapshot of your entire repository compressed into a unique identifier called a SHA hash. You commit your staged changes with a descriptive message.
-    - To commit with a short message:`git commit -m "Your explanation of the changes goes here."`
+    - To commit with a short message: `git commit -m "Your explanation of the changes goes here."`
     - For more complex changes, you can add a title and a longer description: `git commit -m "Title" -m "Long description goes here .........."`
 Writing good commit messages is crucial as they provide traceability, aid collaboration, and serve as documentation for your project's history. For example, a good message is "Enhance user experience by validating signup form fields," while a bad one is simply "fixing stuff".
 
@@ -82,7 +82,7 @@ Further Resources
 - [Git CheetSheet] (https://training.github.com/downloads/github-git-cheat-sheet/)
 - [Pro Git Book] (https://git-scm.com/book/en/v2)
 - [Useful .gitignore templates for common languages and technologies] (https://github.com/github/gitignore)
-- [GitHub Education Student Benefits] (https://github.com/education)
+- [Atlassian git config tutorial] (https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 
 <!-- prettier-ignore-end -->
