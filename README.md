@@ -79,3 +79,5 @@ o Clean
 
 o When to use the different strategies.
 
+· Creating, Using, and Merging Branches - Eli Started 09/28, Finished 09/28, Due 10/2
+
