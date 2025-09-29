@@ -4,18 +4,6 @@ TO DO:
 
 
 
-· Undoing in Git with: - Eli 10/1
-
-o Checkout
-
-o Reset
-
-o Revert
-
-o Clean
-
-o When to use the different strategies.
-
 · Creating, Using, and Merging Branches - Eli 10/2
 
 · Tags - Jangho 10/2
@@ -76,4 +64,17 @@ GitFundimentals
 * Adding / Configuring a GitHub Remote
 
 * Pushing and Pulling
+
+· Undoing in Git with: - Eli Started 09/28, Finished 09/28, Due10/01
+
+o Checkout
+
+o Reset
+
+o Revert
+
+o Clean
+
+o When to use the different strategies.
+
 
