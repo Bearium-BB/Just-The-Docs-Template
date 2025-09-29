@@ -60,3 +60,8 @@ o Staging and Commit Files
 o Status, Log, and Diff
 
 o Using a Git Ignore File
+
+
+
+· Creating, Using, and Merging Branches - Eli Started 09/28, Finished 09/28, Due 10/2
+
