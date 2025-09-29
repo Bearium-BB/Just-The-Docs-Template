@@ -18,7 +18,7 @@ Learn what version control is, why it is important in software development, the 
 
 <!-- prettier-ignore-end -->
 
-## What is it?
+## What is Version Control?
 
 - **Version control**, also known as **revision control** or **source control**, is the management of changes to documents like computer programs.
 
@@ -54,7 +54,7 @@ Version control allows for more than just undoing things:
 - Perforce Helix Core - Paid. Industry standard for large game dev shops.
 - Subversion - Free. Classic choice for smaller / indie shops.
 
-## Want to know more?
+## Want to know more about Version Control?
 
 - [Here you can find more information on what source control is and the different types there are.](https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control).
 
@@ -94,6 +94,6 @@ Learn what Git is and the pros and cons of using it.
 
 ---
 
-## Team Members
+# Team Members
 
 - **Jangho Son** – Into gaming, camping, fishing, and watching horror movies
