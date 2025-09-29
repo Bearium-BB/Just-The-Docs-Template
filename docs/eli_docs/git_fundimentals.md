@@ -17,6 +17,9 @@ Before you begin using Git, you need to configure it with your name and email ad
 - Set your name: `git config --global user.name "Your Name"`
 - Set your email: `git config --global user.email "your.email@example.com"`
 - Enable helpful colorization: `git config --global color.ui auto`
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
@@ -39,6 +42,9 @@ To start tracking a project with Git, you must first initialize a repository wit
 A repository (or repo) is the collection of files and directories that you are monitoring for changes with a version control tool. To start tracking a new project with Git, you must first initialize a repository from within the project's root folder.
 - To initialize a new Git repo, use the command: `git init .`
 - Git's default main branch is often named "master," but you can rename it to "main" using: `git branch -m main`
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
@@ -99,6 +105,9 @@ Git provides several commands to view the state of your repository and its histo
 - `git status`: Use this command to check the status of your repo for any changes or additions.
 - `git log`: This command allows you to review all the commits made in the repository's history. Each log entry displays the commit hash (a unique 40-character SHA1 ID), the author, the date, and the commit message.
 - `git diff`: This command is used to see the differences between the current files in your working directory and the last commit. You can also use it to compare specific files (git diff secret_plans.txt) or entire folders (git diff ./textfiles/plans).
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
