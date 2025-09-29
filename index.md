@@ -59,21 +59,12 @@ Version control allows for more than just undoing things:
 - [Here you can find more information on what source control is and the different types there are.](https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control).
 
 
-<!-- prettier-ignore-start -->
-# What is Git?
-{: .no_toc }
+
+# Git
 
 Learn what Git is and the pros and cons of using it. 
 
-## Table of Contents
-{: .no_toc }
-
-1. TOC
-{:toc}
-
-<!-- prettier-ignore-end -->
-
-## What is it?
+## What is Git?
 
 - Git is a free and open source distributed version control system.
 - Git helps us keep track of the changes to our source code over the lifespan of a project.
@@ -93,7 +84,7 @@ Learn what Git is and the pros and cons of using it.
 - No built-in support for large repos, although the Git LFS add-on exists.
 - No built-in support for locking binary assets. (Locking can be enabled with Git LFS.)
 
-## Want to know more?
+## Want to know more about Git?
 
 - [A Short History of Git](https://git-scm.com/book/ms/v2/Getting-Started-A-Short-History-of-Git). - Official git history.
 - [Git Guide](https://github.com/git-guides). - Official git Learning Guides from the folks at GitHub.
