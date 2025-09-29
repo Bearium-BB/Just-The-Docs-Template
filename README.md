@@ -6,8 +6,6 @@ TO DO:
 
 · Creating, Using, and Merging Branches - Eli 10/2
 
-· Tags - Jangho 10/2
-
 · Remote Repositories  Brett - 9/30
 
 o Adding / Configuring a GitHub Remote
@@ -30,12 +28,13 @@ DOING:
 
 
 
+· Tags - Jangho 10/2
+
 
 
 · Remote Repositories  Brett - 9/30
 
 * Adding / Configuring a GitHub Remote
-
 * Pushing and Pulling
 
 DONE:
@@ -59,10 +58,9 @@ GitFundimentals
 
 · The Git Life Cycle. - Claudia, Started 9/28 Finished 9/28 Due 10/2
 
-· Remote Repositories  Brett - Finished 9/27 Due 9/30 
+· Remote Repositories  Brett - Finished 9/27 Due 9/30
 
 * Adding / Configuring a GitHub Remote
-
 * Pushing and Pulling
 
 · Undoing in Git with: - Eli Started 09/28, Finished 09/28, Due10/01
@@ -76,5 +74,4 @@ o Revert
 o Clean
 
 o When to use the different strategies.
-
 
