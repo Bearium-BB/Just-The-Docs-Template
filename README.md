@@ -26,10 +26,6 @@ o Forking Workflow
 
 DOING:
 
-
-
-
-
 · Remote Repositories  Brett - 9/30
 
 * Adding / Configuring a GitHub Remote
@@ -80,4 +76,13 @@ o Clean
 o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli Started 09/28, Finished 09/28, Due 10/2
+
+· The How and Why of Team Git Workflow  - Brett Finished 9/28 Due 10/1
+
+o Centralized Workflow
+
+o Feature Branch Workflow
+
+o Forking Workflow
+
 
