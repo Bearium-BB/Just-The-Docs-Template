@@ -26,11 +26,6 @@ o Forking Workflow
 
 DOING:
 
-· Remote Repositories  Brett - 9/30
-
-* Adding / Configuring a GitHub Remote
-* Pushing and Pulling
-
 
 
 DONE:
