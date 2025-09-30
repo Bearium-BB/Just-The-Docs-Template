@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Remote Repository
+title: The How And Why Of Team Git Workflow
 nav_order: 10
 ---
 
