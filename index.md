@@ -8,8 +8,6 @@ nav_order: 1
 # **Version Control**
 {: .no_toc }
 
-Learn what version control is, why it is important in software development, the different types that exist, and why you should add it to your proyects.
-
 ## Table of Contents
 {: .no_toc }
 
