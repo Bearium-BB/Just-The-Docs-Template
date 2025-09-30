@@ -31,8 +31,6 @@ DOING:
 * Adding / Configuring a GitHub Remote
 * Pushing and Pulling
 
-· Other Interesting/Useful Git Topics - Brett 10/2
-
 
 DONE:
 
