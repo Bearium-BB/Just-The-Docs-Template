@@ -4,10 +4,18 @@ title: Remote Repository
 nav_order: 9
 ---
 # remote repository
+# Collaborative Coding with Git and GitHub 
+{: .no_toc }
+
 
 ## What is a remote repository
 A remote repository is a repository connected to the internet, allowing people to collaborate easily and providing backups. There are tools for this, such as GitHub and GitLab, which host your Git repositories on their servers. These platforms let other people collaborate with you and provide an easy way to back up your code.
 
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Linking Your Local Repo to GitHub
 
