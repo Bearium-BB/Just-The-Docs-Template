@@ -2,10 +2,6 @@ TO DO:
 
 
 
-
-
-· Creating, Using, and Merging Branches - Eli 10/2
-
 · Remote Repositories  Brett - 9/30
 
 o Adding / Configuring a GitHub Remote
@@ -80,4 +76,6 @@ o Clean
 o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli Started 09/28, Finished 09/28, Due 10/2
+
+
 
