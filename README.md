@@ -26,18 +26,7 @@ DOING:
 
 
 
-
-
-· Remote Repositories  Brett - 9/30
-
-* Adding / Configuring a GitHub Remote
-* Pushing and Pulling
-
-
-
 DONE:
-
-
 
 · Resolving Merge Conflict - Jangho Started 9/26 Finished 9/27 Due 9/30
 
@@ -60,7 +49,7 @@ GitFundimentals
 
 · The Git Life Cycle. - Claudia, Started 9/28 Finished 9/28 Due 10/2
 
-· Remote Repositories  Brett - Finished 9/27 Due 9/30
+· Remote Repositories - Brett Started 09/27 Finished 9/27 Due 9/30
 
 * Adding / Configuring a GitHub Remote
 * Pushing and Pulling
@@ -78,4 +67,23 @@ o Clean
 o When to use the different strategies.
 
 · Creating, Using, and Merging Branches - Eli Started 09/28, Finished 09/28, Due 10/2
+
+· The How and Why of Team Git Workflow  - Brett Finished 9/28 Due 10/1
+
+o Centralized Workflow
+
+o Feature Branch Workflow
+
+o Forking Workflow
+
+
+· Remote Repositories - Brett Started 09/27, Finished 9/27 Due 9/30
+
+* Adding / Configuring a GitHub Remote
+
+* Pushing and Pulling
+
+· Other Interesting/Useful Git Topics - Brett Started 09/27, Finished 9/27 Due 9/30
+
+
 

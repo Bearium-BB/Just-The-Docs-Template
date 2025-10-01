@@ -9,7 +9,7 @@ nav_order: 2
 # **The Git Life Cycle**
 {: .no_toc }
 
-Learn what version control is, why it is important in software development, the different types that exist, and why you should add it to your proyects.
+Each file in your working directory can be in one of two states: **tracked** (Git knows about them) or **untracked**. As you edit them, Git sees them as modified and you can selectively stage them and then commit all those staged changes, and the cycle repeats.
 
 ## Table of Contents
 {: .no_toc }
