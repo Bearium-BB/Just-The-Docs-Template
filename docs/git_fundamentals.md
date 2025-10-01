@@ -76,13 +76,13 @@ build/
 doc/**/*.pdf
 ```
 
-Further Resources
+### Want to know more?
 
-- [Git Guide] (https://github.com/git-guides)
-- [Git CheetSheet] (https://training.github.com/downloads/github-git-cheat-sheet/)
+- [Git Guide](https://github.com/git-guides)
+- [Git CheetSheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [Pro Git Book] (https://git-scm.com/book/en/v2)
-- [Useful .gitignore templates for common languages and technologies] (https://github.com/github/gitignore)
-- [Atlassian git config tutorial] (https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
+- [Useful .gitignore templates for common languages and technologies](https://github.com/github/gitignore)
+- [Atlassian git config tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 
 <!-- prettier-ignore-end -->
