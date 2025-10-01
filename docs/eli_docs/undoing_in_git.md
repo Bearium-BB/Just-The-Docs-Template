@@ -1,3 +1,9 @@
+---
+layout: default
+title: Remote Repository
+nav_order: 4
+---
+
 <!-- prettier-ignore-start -->
 
 # Undoing in Git
