@@ -1,9 +1,3 @@
----
-layout: default
-title: Git Fundamentals
-nav_order: 3
----
-
 <!-- prettier-ignore-start -->
 # Git Fundamentals
 {: .no_toc }
