@@ -4,7 +4,7 @@ title: Useful Git Topics
 nav_order: 11
 ---
 
-# Other Interesting/Useful Git Topics
+# Useful Git Topics
 {: .no_toc}
 
 ## Table of Contents
@@ -16,7 +16,7 @@ nav_order: 11
 
 This is a bridge between Perforce and Git. This is great for developers who have never worked with Perforce before, and artists work well with Perforce too, meaning both groups get the best of both worlds. But you should know there are no GitHub features here. This is just plain Git, so you’ll still have to relearn some things because you’re probably used to GitHub instead of just plain Git.
 
-That’s okay though. Everything is still a learning experience in programming. You can’t know everything—well, I think so. Maybe if you do know everything, you’re probably a god. And if that’s the case, I don’t know why you’re reading this, because you should be making some amazing technology that we can’t even think of.
+That’s okay though. Everything is still a learning experience in programming. You can’t know everything well, I think so. Maybe if you do know everything, you’re probably a god. And if that’s the case, I don’t know why you’re reading this, because you should be making some amazing technology that we can’t even think of.
 
 ---
 
@@ -32,7 +32,7 @@ With these two things combined, development becomes much easier for both sides. 
 
 ### Local or Cloud Setup
 
-Keep in mind this all runs locally on your computer, just like Perforce does. Or, you can set up a server in the cloud. Either way, make sure you have a backup—whether it’s a hard drive, RAID setup, or something else—so you don’t lose anything.
+Keep in mind this all runs locally on your computer, just like Perforce does. Or, you can set up a server in the cloud. Either way, make sure you have a backup whether it’s a hard drive, RAID setup, or something else so you don’t lose anything.
 
 ---
 
