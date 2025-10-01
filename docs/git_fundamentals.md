@@ -1,11 +1,10 @@
-
 ---
 layout: default
 title: Git Fundamentals
 nav_order: 3
 ---
 
-<!-- prettier-ignore-start -->
+
 # Git Fundamentals
 {: .no_toc }
 
@@ -92,5 +91,5 @@ doc/**/*.pdf
 - [Useful .gitignore templates for common languages and technologies](https://github.com/github/gitignore)
 - [Atlassian git config tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
-<!-- prettier-ignore-end -->
+
 
