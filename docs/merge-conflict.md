@@ -48,7 +48,7 @@ To resolve a merge conflict:
    git commit
    ```
 
-## References
+## Want to know more?
 
 - [Git Documentation: Git-Basic Merge Conflicts](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 - [Git merge conflicts - Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)  
