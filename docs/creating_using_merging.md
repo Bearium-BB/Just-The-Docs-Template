@@ -4,10 +4,9 @@ title: Remote Repository
 nav_order: 5
 ---
 
-
 <!-- prettier-ignore-start -->
 
-# Creating, Using and Merging Branches
+# Creating Using and Merging Branches
 {: .no_toc }
 
 This page introduces the concept of branching in Git. Branches are a fundamental feature that allows you to work on different features or bug fixes in isolation without affecting the main project timeline. We will cover how to create and switch between branches, how to merge your changes back into the main line of development, and what to do when Git cannot automatically merge changes, resulting in a merge conflict.
@@ -59,13 +58,13 @@ Let's say you've been working on a branch named experimental and want to merge t
 - Then, merge the other branch's changes into your current branch: `git merge  <feature-branch-name>`
 
 
-### Want to know more? 
+### Want to know more?
 
-- [Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge) - Merging Guide.
+- [Atlassian] (https://www.atlassian.com/git/tutorials/using-branches/git-merge) - Merging Guide.
 
-- [Git CheetSheet](https://training.github.com/downloads/github-git-cheat-sheet/)- The most popular git commands in one page.
+- [Git CheetSheet] (https://training.github.com/downloads/github-git-cheat-sheet/)- The most popular git commands in one page.
 
-- [Pro Git Book](https://git-scm.com/book/en/v2) - Free ebook provides a deep dive into everything git.
+- [Pro Git Book] (https://git-scm.com/book/en/v2) - Free ebook provides a deep dive into everything git.
 
 
 
