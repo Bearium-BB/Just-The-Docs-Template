@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Remote Repository
@@ -10,7 +11,9 @@ nav_order: 4
 
 
 
+
 This page provides a guide to undoing changes in Git, a crucial skill for effective version control. It covers four primary commands—checkout, reset, revert, and clean—detailing how each one works and the specific scenarios where they should be used. The goal is to help you understand the differences between these commands, especially their safety levels and impact on your project's history, so you can confidently manage and correct mistakes in your code base.
+
 
 
 
@@ -21,6 +24,7 @@ This page provides a guide to undoing changes in Git, a crucial skill for effect
 
 
 1. TOC
+
 
 {:toc}
 
@@ -77,9 +81,6 @@ How it works: Instead of deleting commits from the project history, git revert c
 The `git clean` command is a helpful utility for cleaning up your working directory.
 
 - Use Case: This command is used to discard all files that are not under version control (i.e., untracked files). This is useful for removing temporary or build files that you don't want to include in your repository.
-
-
-
 
 
 ## When to Use Different Strategies

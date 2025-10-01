@@ -1,3 +1,9 @@
+---
+layout: default
+title: Remote Repository
+nav_order: 5
+---
+
 <!-- prettier-ignore-start -->
 
 # Creating Using and Merging Branches
@@ -52,7 +58,7 @@ Let's say you've been working on a branch named experimental and want to merge t
 - Then, merge the other branch's changes into your current branch: `git merge  <feature-branch-name>`
 
 
-## Further Resources
+### Want to know more?
 
 - [Atlassian] (https://www.atlassian.com/git/tutorials/using-branches/git-merge) - Merging Guide.
 

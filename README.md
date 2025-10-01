@@ -4,8 +4,6 @@ TO DO:
 
 
 
-· Creating, Using, and Merging Branches - Eli 10/2
-
 · Remote Repositories  Brett - 9/30
 
 o Adding / Configuring a GitHub Remote
