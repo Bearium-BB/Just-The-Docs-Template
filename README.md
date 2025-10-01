@@ -51,7 +51,7 @@ GitFundimentals
 
 · The Git Life Cycle. - Claudia, Started 9/28 Finished 9/28 Due 10/2
 
-· Remote Repositories  Brett - Finished 9/27 Due 9/30
+· Remote Repositories - Brett Started 09/27 Finished 9/27 Due 9/30
 
 * Adding / Configuring a GitHub Remote
 * Pushing and Pulling
@@ -79,11 +79,13 @@ o Feature Branch Workflow
 o Forking Workflow
 
 
-· Remote Repositories - Brett  Finished 9/27 Due 9/30
+· Remote Repositories - Brett Started 09/27, Finished 9/27 Due 9/30
 
 * Adding / Configuring a GitHub Remote
 
 * Pushing and Pulling
+
+· Other Interesting/Useful Git Topics - Brett Started 09/27, Finished 9/27 Due 9/30
 
 
 
