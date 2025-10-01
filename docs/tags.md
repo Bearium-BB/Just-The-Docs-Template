@@ -54,7 +54,7 @@ If you have annotated tags, you can view the associated information with `git sh
 You can compare the differences between the tagged state of the code and the current HEAD using `git diff <tag-name>`.
 
 
-## References
+## Want to know more?
 
 - [Git Documentation: git-tag (Official Manual)](https://git-scm.com/docs/git-tag)  
 - [Atlassian Git Tutorial: Git Tags](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag)
