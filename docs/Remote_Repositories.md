@@ -4,10 +4,18 @@ title: Remote Repository
 nav_order: 9
 ---
 # remote repository
+# Collaborative Coding with Git and GitHub 
+{: .no_toc }
+
 
 ## What is a remote repository
 A remote repository is a repository connected to the internet, allowing people to collaborate easily and providing backups. There are tools for this, such as GitHub and GitLab, which host your Git repositories on their servers. These platforms let other people collaborate with you and provide an easy way to back up your code.
 
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Linking Your Local Repo to GitHub
 
@@ -148,3 +156,10 @@ Try to trigger a merge conflict by committing changes to the **same line** local
 - Locally resolve the merge conflict that you triggered.  
 - Commit the resolved state of the repo.  
 - Push the resolved state to GitHub.  
+
+
+## References
+
+- [Git — Working with Remotes (Git SCM Book)](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)  
+- [How to Create Remote Repo from Local (DelftStack)](https://www.delftstack.com/howto/git/create-remote-repo-from-local/)  
+- [How to Add Remote Origin in Git (GeeksforGeeks)](https://www.geeksforgeeks.org/git/how-to-add-remote-origin-in-git/)  

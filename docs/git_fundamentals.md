@@ -92,5 +92,3 @@ doc/**/*.pdf
 - [Atlassian git config tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 
-
-
