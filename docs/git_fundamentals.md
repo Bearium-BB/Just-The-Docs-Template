@@ -1,4 +1,10 @@
-<!-- prettier-ignore-start -->
+---
+layout: default
+title: Git Fundamentals
+nav_order: 3
+---
+
+
 # Git Fundamentals
 {: .no_toc }
 
@@ -76,14 +82,15 @@ build/
 doc/**/*.pdf
 ```
 
+
 ### Want to know more?
 
 - [Git Guide](https://github.com/git-guides)
 - [Git CheetSheet](https://training.github.com/downloads/github-git-cheat-sheet/)
-- [Pro Git Book] (https://git-scm.com/book/en/v2)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Useful .gitignore templates for common languages and technologies](https://github.com/github/gitignore)
 - [Atlassian git config tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 
-<!-- prettier-ignore-end -->
+
 
