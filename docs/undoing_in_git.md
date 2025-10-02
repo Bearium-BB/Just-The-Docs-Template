@@ -5,7 +5,6 @@ title: Remote Repository
 nav_order: 4
 ---
 
-<!-- prettier-ignore-start -->
 
 # Undoing in Git
 
@@ -109,5 +108,5 @@ Choosing the right "undo" strategy depends on whether the changes are local or h
 
 
 
-<!-- prettier-ignore-end -->
+
 
