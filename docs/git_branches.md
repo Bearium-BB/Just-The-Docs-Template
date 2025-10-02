@@ -12,11 +12,12 @@ This page introduces the concept of branching in Git. Branches are a fundamental
 
 
 ## Table of Contents
+{: .no_toc }
 
 
 1. TOC
-
 {:toc}
+
 
 
 
@@ -58,11 +59,11 @@ Let's say you've been working on a branch named experimental and want to merge t
 
 ### Want to know more?
 
-- [Atlassian] (https://www.atlassian.com/git/tutorials/using-branches/git-merge) - Merging Guide.
+- [Atlassian](https://www.atlassian.com/git/tutorials/using-branches/git-merge) - Merging Guide.
 
-- [Git CheetSheet] (https://training.github.com/downloads/github-git-cheat-sheet/)- The most popular git commands in one page.
+- [Git CheetSheet](https://training.github.com/downloads/github-git-cheat-sheet/)- The most popular git commands in one page.
 
-- [Pro Git Book] (https://git-scm.com/book/en/v2) - Free ebook provides a deep dive into everything git.
+- [Pro Git Book](https://git-scm.com/book/en/v2) - Free ebook provides a deep dive into everything git.
 
 
 
