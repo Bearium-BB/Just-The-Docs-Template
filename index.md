@@ -98,3 +98,5 @@ Learn what Git is and the pros and cons of using it.
 
 - **Jangho Son** – Into gaming, camping, fishing, and watching horror movies
 - **Claudia Rodriguez** – Hey! I like reading, drawing, and doing all type of sports
+- **Brett Bowley** –  I like to cook, enjoy playing and making video games, and I like to host random things locally
+
