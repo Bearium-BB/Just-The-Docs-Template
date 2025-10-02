@@ -1,13 +1,12 @@
 
 ---
 layout: default
-title: Remote Repository
+title: Undoing In Git
 nav_order: 4
 ---
 
-
 # Undoing in Git
-
+{: .no_toc }
 
 
 
@@ -17,14 +16,11 @@ This page provides a guide to undoing changes in Git, a crucial skill for effect
 
 
 ## Table of Contents
-
 {: .no_toc }
 
 
 
 1. TOC
-
-
 {:toc}
 
 
@@ -100,11 +96,11 @@ Choosing the right "undo" strategy depends on whether the changes are local or h
 
 ### Want to know more?
 
-- [Git Guide](https://github.com/git-guides) - Official git Learning Guides from the folks at GitHub.
+- [Git Guide](https://github.com/git-guides) Official git Learning Guides from the folks at GitHub.
 
-- [The Git Week: A guide to Git revert, Reset and checkout](https://medium.com/@lorenzouriel/the-git-week-a-guide-to-git-revert-reset-and-checkout-da103b119b17) - Helpful article.
+- [The Git Week: A guide to Git revert, Reset and checkout](https://medium.com/@lorenzouriel/the-git-week-a-guide-to-git-revert-reset-and-checkout-da103b119b17)  Helpful article.
 
-- [Pro Git Book](https://git-scm.com/book/en/v2)- Free ebook provides a deep dive into everything git.
+- [Pro Git Book](https://git-scm.com/book/en/v2) Free ebook provides a deep dive into everything git.
 
 
 
