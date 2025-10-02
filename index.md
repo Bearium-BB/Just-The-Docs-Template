@@ -95,4 +95,5 @@ Learn what Git is and the pros and cons of using it.
 # Team Members
 
 - **Jangho Son** – Into gaming, camping, fishing, and watching horror movies
+- **Eli Heinrichs** - I love board games, piano, theology and hockey
 - **Claudia Rodriguez** – Hey! I like reading, drawing, and doing all type of sports

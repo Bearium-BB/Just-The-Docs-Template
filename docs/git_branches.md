@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Remote Repository
+title: Branches
 nav_order: 5
 ---
-
-<!-- prettier-ignore-start -->
 
 # Creating Using and Merging Branches
 {: .no_toc }
@@ -68,5 +66,4 @@ Let's say you've been working on a branch named experimental and want to merge t
 
 
 
-<!-- prettier-ignore-end -->
 
