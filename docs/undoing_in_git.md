@@ -3,7 +3,6 @@ layout: default
 title: Undoing In Git
 nav_order: 4
 ---
-
 # Undoing in Git
 {: .no_toc }
 
