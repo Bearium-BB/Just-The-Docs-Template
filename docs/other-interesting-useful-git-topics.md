@@ -51,3 +51,8 @@ I hope this convinces you to give it a try. Based on my research, it looks very 
 ---
 
 I hope you give it a try. I’m out.
+
+## References
+- [Helix for Git PDF Manual (Perforce)](ftp.perforce.com/perforce/r17.1/doc/manuals/helix-for-git.pdf#:~:text=n%20stores%20Git%20repos%20in,a%20combination%20of%20cached%20data%C2%A0%C2%A0and)  
+- [Working with Git in Helix Core (Perforce Docs)](https://help.perforce.com/helix-core/server-apps/p4sag/current/Content/P4SAG/working-with-git.html#:~:text=The%20Git%20Connector%20enables%20you,of%20the%20P4%20Server)  
+- [Git vs Perforce: How to Choose and When to Use Both (Perforce Blog)](https://www.perforce.com/blog/vcs/git-vs-perforce-how-choose-and-when-use-both#:~:text=You%20can%20add%20P4%20Git,also%20supports%20Git%20LFS%20artifacts)  
