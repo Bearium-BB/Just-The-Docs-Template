@@ -56,7 +56,7 @@ To restore stashed changes, use:
 - `git stash clear` : Remove all stashes
 - `git stash pop 'stash@{n}'` : Pop a specific stash seen in `git stash list`.
 
-## References
+## Want to know more?
 
 - [Git Documentation: git-stash (Official Manual)](https://git-scm.com/docs/git-stash)
 - [Git Stash - Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)  
